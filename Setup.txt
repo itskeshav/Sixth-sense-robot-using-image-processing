@@ -1,0 +1,4 @@
+Run python code from cmd as a administrator.
+Use blue colour object(like cap) to detect.
+By default COM port = 3 ; if not then check it by going in Device Manger>Port
+Be sure that in background there is no Blue color.

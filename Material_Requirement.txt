@@ -1,0 +1,10 @@
+Arduino Uno                     
+60 RPM Motor              
+L239D Motor Driver        
+Red BO Motor Wheels       
+castor wheel              
+Robot Chassis                         
+Cable & Connectors        
+Screws & Nuts             
+5-V Battery
+UART cable

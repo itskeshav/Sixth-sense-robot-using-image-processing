@@ -1,0 +1,4 @@
+cv2 version    === '4.1.0'
+numpy version  === '1.17.0'
+serial version === '3.4'
+sys version    ==== '3.7.4

@@ -1,0 +1,42 @@
+cv2 version    === '4.1.0'
+numpy version  === '1.17.0'
+serial version === '3.4'
+sys version    ==== '3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)]'
+
+-----------------------------------------------------------------------
+
+>>>pip install opencv-python
+>>>pip install numpy
+>>>pip install pyserial
+
+-----------------------------------------------------------
+
+Serial is not included with Python. It is a package 
+that you'll need to install separately.
+
+------------check version of module---------
+
+import module_name
+module_name.__version__
+https://www.tutorialspoint.com/How-to-check-version-of-python-modules
+
+-----------------------------------------------------------
+
+--------How to check COM ports in Windows 10?--------
+Control Panel >> Device Manager >> Ports
+https://superuser.com/questions/1059447/how-to-check-com-ports-in-windows-10
+ 
+--------------------------------------------------
+upload arduino code :-
+open code in Arduino
+Arduino>Tools>Boards>Arduino/Genuino/Uno
+Arduino>Tools>Port>COM3
+---------------------------------------------------
+Run Python code :-
+open cmd as a administrator
+go to in a directory in which our program lies
+run the code
+----------------------------------------------------
+
+
+
