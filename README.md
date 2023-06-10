@@ -1,4 +1,4 @@
 # Sixth-sense-robot-using-image-processing
 The Sixth Sense Robot project involves the utilization of an Arduino Uno board for processing. The robot is designed to detect a specific color from real-time video input. Based on the position of the detected color, the robot moves in a predetermined direction. The project also includes live video capture and processing to identify various objects in the robot's surroundings. Numpy is employed for numerical operations and array manipulation, OpenCV is utilized for image processing and computer vision tasks, and PySerial facilitates communication between the Arduino Uno board and other devices. This project showcases the integration of hardware and software technologies to create a robot that can detect colors, navigate based on color positions, and identify objects in its environment.
 
-[![Sixth Sense Robot Using Image-processing](https://img.youtube.com/vi/lG1INuBsEO8/2.jpg)](https://www.youtube.com/watch?v=lG1INuBsEO8)
+[![Sixth Sense Robot Using Image-processing](https://img.youtube.com/vi/lG1INuBsEO8/3.jpg)](https://www.youtube.com/watch?v=lG1INuBsEO8)
